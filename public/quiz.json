@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Python-разработчик",
+    "themes": [
+      {
+        "topic": "ООП",
+        "questions": [
+          { "value": 100, "content": "Что такое **полиморфизм**?" },
+          { "value": 200, "content": "Как в Python реализовано множественное наследование?" },
+          { "value": 300, "content": "Что такое `@property` и зачем он нужен?" },
+          { "value": 400, "content": "Разница между `__new__` и `__init__`?" },
+          { "value": 500, "content": "Что такое MRO? Пример." },
+          { "value": 600, "content": "Какие есть паттерны проектирования в Python? Приведите 2 примера." },
+          { "value": 800, "content": "Когда нужно использовать мета классы?" },
+          { "value": 900, "content": "Как реализовать абстрактную фабрику?" }
+        ]
+      },
+      {
+        "topic": "Алгоритмы",
+        "questions": [
+          { "value": 100, "content": "Сложность доступа к элементу массива по индексу?" },
+          { "value": 200, "content": "Чем отличается BFS от DFS?" },
+          { "value": 300, "content": "Как найти цикл в связном списке?" },
+          { "value": 400, "content": "Алгоритм Дейкстры: ограничения, сложность." },
+          { "value": 500, "content": "Что такое хэш-таблица и коллизии?" },
+          { "value": 600, "content": "Опишите quicksort и среднюю сложность." }
+        ]
+      },
+      {
+        "topic": "Арсен",
+        "questions": [
+          { "value": 1200, "content": "Ты фрик?" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Frontend-разработчик",
+    "themes": [
+      {
+        "topic": "React",
+        "questions": [
+          { "value": 100, "content": "Что такое **Virtual DOM**?" },
+          { "value": 200, "content": "Что такое `useEffect` и когда он вызывается?" },
+          { "value": 300, "content": "Почему ключи (`key`) важны в списках?" },
+          { "value": 400, "content": "Разница controlled/uncontrolled компонентов." },
+          { "value": 500, "content": "Что такое memoization в React?" },
+          { "value": 600, "content": "Как работает batching обновлений состояния?" }
+        ]
+      }
+    ]
+  }
+]
